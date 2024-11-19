@@ -7,6 +7,8 @@
 - 1x LCD
 - 1x servomotor
 - 2x Breadboard
-- 1 Buzzer
+- 1x Buzzer
+- 22x rezistoare (14x 220 Ohm; 1x 330 Ohm; 3x 1 kOhm, 2x 5.1 kOhm, 2x 100 kOhm)
+- 1x Potentiometru (50k)
 - Fire de legatura
 - 2x Arduino Uno
