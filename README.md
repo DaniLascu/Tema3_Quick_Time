@@ -42,3 +42,8 @@ Am adaugat posibilitatea jucatorilor de a-si introduce numele la inceputul unui 
 - 1x Potentiometru (50k)
 - Fire de legatura
 - 2x Arduino Uno
+# Poze ale setup-ului fizic
+![WhatsApp Image 2024-11-19 at 13 07 32](https://github.com/user-attachments/assets/feedad33-093a-4caa-991c-6e815f403b7a)
+![WhatsApp Image 2024-11-19 at 13 07 33 (1)](https://github.com/user-attachments/assets/56d5ef14-f622-46bd-8705-e9a50f157ae1)
+![WhatsApp Image 2024-11-19 at 13 07 33 (2)](https://github.com/user-attachments/assets/b7bdec49-6727-43b4-8941-bbc7d900538b)
+![WhatsApp Image 2024-11-19 at 13 07 33](https://github.com/user-attachments/assets/0ae2bb30-4f1a-478d-b6dc-965ab9076a1a)
