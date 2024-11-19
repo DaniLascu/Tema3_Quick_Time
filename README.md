@@ -28,6 +28,8 @@ Controlat prin biblioteca LiquidCrystal, afișează scorurile actualizate ale ju
 Luminozitatea și contrastul sunt reglate pentru o vizibilitate optimă, iar liniile de date sunt conectate la pini D4-D7.
 ## Servomotor:
 Servomotorul începe la 0° și se rotește în sens antiorar pentru a indica progresul jocului. Mișcarea este configurată astfel încât o rotație completă să marcheze finalul sesiunii. Acesta revine de la 180 grade, înapoi la 0 grade, la sfârșitul jocului.
+## Bonus-uri
+Am adaugat posibilitatea jucatorilor de a-si introduce numele la inceputul unui joc. Dupa ce unul dintre ei apasa butonul de start, acestia vor fii rugati sa isi introduca numele pe interfata Serial. Am adaugat si un Buzzer, care la inceputul si la sfarsitul unui joc canta un sir de note muzicale si care semnaleaza raspunsurile corecte si gresite prin sunete specifice.
 # Componente utilizate
 - 6x LED-uri (2 grupuri de câte 3 leduri, în cadrul unui grup trebuie să avem culori diferite)
 - 2x LED RGB (1 pentru fiecare jucător)
