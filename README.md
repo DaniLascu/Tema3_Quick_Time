@@ -47,3 +47,7 @@ Am adaugat posibilitatea jucatorilor de a-si introduce numele la inceputul unui 
 ![WhatsApp Image 2024-11-19 at 13 07 33 (1)](https://github.com/user-attachments/assets/56d5ef14-f622-46bd-8705-e9a50f157ae1)
 ![WhatsApp Image 2024-11-19 at 13 07 33 (2)](https://github.com/user-attachments/assets/b7bdec49-6727-43b4-8941-bbc7d900538b)
 ![WhatsApp Image 2024-11-19 at 13 07 33](https://github.com/user-attachments/assets/0ae2bb30-4f1a-478d-b6dc-965ab9076a1a)
+# Schema electrică 
+![schema_electrica_tinkercad](https://github.com/user-attachments/assets/b0d46ae6-ed43-4237-acb4-1de9fe8a8e16)
+# Video cu funcționalitatea montajului fizic
+https://youtu.be/TXRyjtrQx24
